@@ -1,7 +1,7 @@
 # emscripten file upload example
 
-ブラウザで動くソフトウェアを開発するツール。  
-The Tool making the software Working on browser.
+[エムスクリプテン](https://emscripten.org)はブラウザで動くソフトウェアを開発するツール。  
+"[Emscripten](https://emscripten.org)" is Tool making the software Working on browser.
 
 この見本はテキストファイルをアップロードフォームから読み、ブラウザに表示します。  
 This example load a text file from upload form, and show file contain text.
