@@ -1,1 +1,3 @@
-# emscripten_file_upload_example
+# emscripten file upload example
+
+https://sntulix.github.io/emscripten_file_upload_example/
