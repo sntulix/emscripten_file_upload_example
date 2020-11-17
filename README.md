@@ -7,3 +7,5 @@ The Tool making the software Working on browser.
 This example load a text file from upload form, and show file contain text.
 
 見本サイト example working site: https://sntulix.github.io/emscripten_file_upload_example/
+
+参考スレッド reference thread: https://stackoverflow.com/questions/61496876/how-can-i-load-a-file-from-a-html-input-into-emscriptens-memfs-file-system
